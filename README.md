@@ -16,12 +16,12 @@
 
 ## 🚀 Featured Projects
 
+- [Blockchain-based DNS](https://github.com/omar-mi/blockchain-based-dns)  
+  Blockchain-based DNS resolver with traditional DNS compatibility.
 - [Mini-Minecraft](https://github.com/okhalifa-official/Mini-Minecraft)  
   Blocky fun with code—my take on a voxel-based world!
 - [CP-L1_PTA](https://github.com/okhalifa-official/CP-L1_PTA)  
   Resources and solutions for competitive programming beginners.
-- [OOSE](https://github.com/omar-mi/oose)  
-  Object-Oriented Software Engineering, teamwork in action.
 
 Check out my [other projects](https://github.com/okhalifa-official?tab=repositories) for more!
 
