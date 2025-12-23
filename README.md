@@ -38,16 +38,6 @@ Check out my [other projects](https://github.com/okhalifa-official?tab=repositor
 
 ---
 
-## 🔥 GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhalifa-official&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhalifa-official&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=okhalifa-official&theme=react-dark)
-
----
-
 ## 🌐 Connect
 
 Find my social links in my profile sidebar—let’s connect!
@@ -55,5 +45,3 @@ Find my social links in my profile sidebar—let’s connect!
 ---
 
 > “Fueled by coffee, driven by bugs, inspired by challenges.”
-
-![Visitor Count](https://profile-counter.glitch.me/okhalifa-official/count.svg)
