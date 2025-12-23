@@ -1,10 +1,14 @@
 # 👋 Hi there, I’m Omar Khalifa!
+[![LeetCode](https://img.shields.io/badge/LeetCode-o_khalifa-orange?style=flat-square&logo=leetcode)](https://leetcode.com/o_khalifa/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-o.khalifa-green?style=flat-square&logo=codeforces)](https://codeforces.com/profile/o.khalifa)
+
 
 🎓 **Software Engineering Student**  
 🏆 **Competitive Programming Coach**  
 ☕️ Coffee addict | Geek problem solver | Junior Software Engineer fixing bugs all night
 
 ---
+
 
 ## 🧑‍💻 About Me
 
@@ -34,6 +38,16 @@ Check out my [other projects](https://github.com/okhalifa-official?tab=repositor
 
 ---
 
+## 🔥 GitHub Stats
+
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=okhalifa-official&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okhalifa-official&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=okhalifa-official&theme=react-dark)
+
+---
+
 ## 🌐 Connect
 
 Find my social links in my profile sidebar—let’s connect!
@@ -41,3 +55,5 @@ Find my social links in my profile sidebar—let’s connect!
 ---
 
 > “Fueled by coffee, driven by bugs, inspired by challenges.”
+
+![Visitor Count](https://profile-counter.glitch.me/okhalifa-official/count.svg)
