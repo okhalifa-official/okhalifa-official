@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-- [Blockchain-based DNS](https://github.com/omar-mi/blockchain-based-dns)  
+- [Blockchain-based DNS](https://github.com/okhalifa-official/blockchain-based-dns)  
   Blockchain-based DNS resolver with traditional DNS compatibility.
 - [Mini-Minecraft](https://github.com/okhalifa-official/Mini-Minecraft)  
   Blocky fun with code—my take on a voxel-based world!
